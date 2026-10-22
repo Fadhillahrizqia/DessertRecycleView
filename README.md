@@ -22,7 +22,11 @@ Aplikasi Android yang menampilkan daftar dessert (**Donut**, **Ice Cream Sandwic
 ## Tampilan
 
 <p align="center">
-  <img src="screenshots/modul2.png" alt="Daftar Droid Desserts dengan RecyclerView" width="280">
+  <img src="Dessert_portrait.jpeg" alt="Daftar Droid Desserts dengan RecyclerView" width="280">
+</p>
+
+<p align="center">
+  <img src="Dessert_landscape.jpeg" alt="Daftar Droid Desserts dengan RecyclerView" width="580">
 </p>
 
 *Hasil aplikasi saat dijalankan di perangkat: tiga dessert dengan lingkaran latar hijau, biru, dan ungu.*
