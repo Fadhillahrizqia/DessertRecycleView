@@ -86,8 +86,3 @@ app/src/main/
 3. Tunggu proses Gradle sync selesai.
 4. Pilih emulator atau HP (USB debugging aktif), lalu klik **Run**.
 
-## Catatan
-
-- Gambar dessert (`donut_circle`, `icecream_circle`, `froyo_circle`) diambil dari repository contoh Google Developer Training (DroidCafe).
-- Nama package pada file Kotlin disamakan dengan package project (`lat.pam.dessertrecycleview`).
-- Teks sisa `[cite: 1]` pada komentar di `MainActivity.kt` dan `import` yang tidak terpakai dibersihkan.
